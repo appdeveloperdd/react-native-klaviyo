@@ -1,6 +1,6 @@
 {
   "name": "react-native-klaviyo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Klaviyo react native package",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
